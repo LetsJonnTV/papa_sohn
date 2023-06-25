@@ -1,0 +1,56 @@
+Dateien & Ordner anlegen // 
+
+Frontend:
+    Grund UI //
+        Button //
+        Item system //
+    Karakter erstellung //
+    Title bildschirm:
+        Intro Bilschrim //
+    Login Bildschirm:
+        Load //
+        save //
+        register //
+        login //
+
+    Stadt:
+        Ui mit bild und hintergrund //
+
+    Wald:
+        Ui mit bild und hintergrund //
+
+    Button mit icons //
+
+Backend:
+    Load funktion //
+    Save funktion //
+    Login funktion //
+    register funktion //
+        Schwirigkeits grad festlegen //
+    Player funktion:
+        Karakter stats //
+            Xp // y
+            Level // y
+            Geld // y
+        Resurcen stats:
+            Holz // y
+            Stein // y
+    Zeit und datum //
+    Klasse mit grund(abbau) resurcen:
+        Holz // y
+        Stein // y
+    Klasse mit zwischen produkten:
+
+    Klasse mit end-produkten //
+
+    Haus:
+        Lager //
+        Item verwaltung //
+    Resurcen Abbau:
+        Holz:
+            0.1 holz dazu auser skill ist höher //
+            Holz XP counter //
+        Stein:
+            0.01 stein dazu auser skill ist höher //
+            Stein XP counter //
+        Gennereller XP counter bei abbau //

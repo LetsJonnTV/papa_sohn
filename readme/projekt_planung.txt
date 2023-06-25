@@ -1,0 +1,26 @@
+- Spiel
+    - MMO und Idle clicker
+    - 60 FPS
+    - Start datum
+    - Start resurcen
+    - Geld System
+    - Karakter kann wachsen
+        - XP system
+            - Leveln
+                - Warscheinlichkeit
+                    - Abau gelingen von bestimmten resurcen
+                - Anzahl an resurcen vermehren
+
+    - Haus
+        - Basis sachen
+        - Lager
+            - Item verwaltung
+
+    - Wald
+        - Holzefellen
+        - Pilze sammeln
+        - Feld
+            - Muss in der stadt erworben werden
+            - Anbau von Holz oder lebensmitteln
+    - Stadt
+        - Kaufen, Handeln
